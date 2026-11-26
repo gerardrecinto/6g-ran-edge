@@ -6,7 +6,7 @@ C++ wireless edge lab for modeling RAN capacity, slice-aware scheduling, mobilit
 
 This repo is meant to show the kind of systems thinking that sits between wireless domain work and platform engineering: radio-facing constraints, edge host pressure, useful telemetry, and deployable ops artifacts in one small project.
 
-It is standards-inspired, not a production 3GPP stack. No private lab logs, vendor configs, or company-specific details are included.
+It is standards-inspired. No private lab logs, vendor configs, or company-specific details are included.
 
 ## What is inside
 
